@@ -1,2 +1,3 @@
-# BEBUI0000_Cookbook_Acorn
-The Acorn Moodle Cookbook
+Description
+===========
+A Chef Cookbook to support the BPP Acorn application.
